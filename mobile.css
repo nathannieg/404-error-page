@@ -85,10 +85,9 @@ p {
   color: #ffffff;
 }
 
-/* .attribution.container {
+.attribution {
   text-align: center;
-  padding-top: 114px;
-} */
+}
 
 .attribution p {
   color: #bdbdbd;
