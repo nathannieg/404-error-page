@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{nathannieg.github.io/404-error-page/}">
+    <a href="https://nathannieg.github.io/404-error-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/nathannieg/404-error-page}">
+    <a href="https://github.com/nathannieg/404-error-page">
       Solution
     </a>
     <span> | </span>
